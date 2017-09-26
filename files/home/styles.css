@@ -2754,7 +2754,8 @@
 }
 #u170 {
   position:fixed;
-  left:0px;
+  left:50%;
+  margin-left:-720px;
   top:0px;
 }
 #u170_state0 {
@@ -8480,7 +8481,8 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u170.a {
   position:fixed;
-  left:0px;
+  left:50%;
+  margin-left:-160px;
   top:0px;
   width:320px;
   height:48px;
